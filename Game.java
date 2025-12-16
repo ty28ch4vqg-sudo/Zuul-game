@@ -7,9 +7,9 @@
  *  To play this game, create an instance of this class and call the "play"
  *  method.
  *  
- *  
- *                      A CHANGE ON MY LAPTOP!
- * 
+ *                   ||||||||||||||||||||||||||||     
+ *                   || A CHANGE ON MY LAPTOP! ||
+ *                   ||||||||||||||||||||||||||||
  * 
  * 
  *  This main class creates and initialises all the others: it creates all
