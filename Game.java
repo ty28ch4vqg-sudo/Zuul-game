@@ -5,7 +5,7 @@
  *  to make it more interesting!
  * 
  *  To play this game, create an instance of this class and call the "play"
- *  method.
+ *  method.       A CHANGE ON MY LAPTOP!
  * 
  *  This main class creates and initialises all the others: it creates all
  *  rooms, creates the parser and starts the game.  It also evaluates and
