@@ -19,9 +19,9 @@
  * @author  Michael Kölling and David J. Barnes
  * @version 7.1
  *
- *
- *                SOME CHANGES ON THE UNI DESKTOP :)
- *
+ *              --------------------------------------
+ *              - SOME CHANGES ON THE UNI DESKTOP :) -
+ *              --------------------------------------
  *
  */
 public class Game 
